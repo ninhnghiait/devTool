@@ -1,2 +1,4 @@
 1. Edit text:
 js: document.designMode = "on"
+2. Debugger:
+js: debugger;
